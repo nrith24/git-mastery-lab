@@ -1,5 +1,8 @@
+def greet(name):
+    return f"Welcome to Git Mastery Lab, {name}!"
+
 def main():
-    print("Welcome to my Git Mastery Lab!")
+    print(greet("Developer"))
 
 if __name__ == "__main__":
     main()
