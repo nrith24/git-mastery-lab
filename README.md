@@ -6,3 +6,7 @@ My hands-on journey to mastering Git and GitHub.
 - Practice Git workflows
 - Learn branching and merging
 - Understand collaboration
+
+## Current Features
+- Personalized greeting
+- Python application entry pointgit status
